@@ -1,0 +1,14 @@
+THREAT ASSESSMENT REPORT
+Date: 2025-06-05
+Classification: TOP SECRET
+
+Subject: Cyber Threat Analysis - OPERATION DIGITAL STORM
+
+Advanced persistent threat group APT-COBRA has intensified activities targeting 
+CRITICAL INFRASTRUCTURE in NORTH AMERICA and EUROPE. 
+
+Recent attacks traced to command and control servers in EASTERN EUROPE, 
+specifically BUCHAREST and SOFIA data centers operated by DARK NET HOSTING.
+
+Target profile includes POWER GRID operators and FINANCIAL INSTITUTIONS including GLOBAL TRUST BANK.
+Attribution analysis suggests state-sponsored activity linked to FOREIGN ACTOR X.
